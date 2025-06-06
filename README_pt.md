@@ -2,8 +2,8 @@
 
 [English](/README.md) | [简体中文](/README_zh-CN.md) | [繁體中文](/README_zh-TW.md) | [Español](/README_es.md) | [العربية](/README_ar.md) | [Português](/README_pt.md) | [Русский](/README_ru.md) | [日本語](/README_ja.md) | [Deutsch](/README_de.md) | [Français](/README_fr.md) | [Tiếng Việt](/README_vi.md) | [Türkçe](/README_tr.md) | [Italiano](/README_it.md) | [हिन्दी](/README_hi.md) | [Bahasa Indonesia](/README_id.md) | [Bahasa Melayu](/README_ms.md) | [Polski](/README_pl.md) | [Nederlands](/README_nl.md) | [Українська](/README_uk.md) | [ไทย](/README_th.md) | [한국어](/README_ko.md)
 
-[![Último Lançamento](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](./releases/latest)
-[![Downloads do GitHub](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](./releases)
+[![Último Lançamento](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](../../releases/latest)
+[![Downloads do GitHub](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](../../releases)
 
 Bem-vindo ao repositório oficial de lançamentos da versão Windows do ServBay. Aqui você encontra os pacotes oficiais e os registros de mudanças do ServBay para Windows.
 
@@ -61,9 +61,9 @@ O ServBay oferece um conjunto abrangente de ferramentas poderosas para turbinar 
 
 ## 📥 Como Baixar
 
-Todas as versões do ServBay para Windows estão disponíveis na **[Página de Lançamentos](./releases)** deste repositório.
+Todas as versões do ServBay para Windows estão disponíveis na **[Página de Lançamentos](../../releases)** deste repositório.
 
-1.  Visite a [Página de Lançamentos](./releases).
+1.  Visite a [Página de Lançamentos](../../releases).
 2.  Escolha a versão desejada (geralmente, é recomendado usar a versão estável mais recente).
 3.  Na seção "Assets" do lançamento escolhido, faça o download do instalador correspondente (ex.: arquivo `.exe` ou `.zip`).
 4.  Após o download, siga o respectivo guia de instalação.
@@ -72,7 +72,7 @@ Todas as versões do ServBay para Windows estão disponíveis na **[Página de L
 
 Sua opinião é muito importante para nós! Caso encontre algum problema usando o ServBay para Windows, tenha sugestões ou descubra um erro, entre em contato pelos canais abaixo:
 
-*   **Informe um Problema Neste Repositório**: Descreva sua questão detalhadamente na [página de Issues do ServBay-Windows-Release](./issues).
+*   **Informe um Problema Neste Repositório**: Descreva sua questão detalhadamente na [página de Issues do ServBay-Windows-Release](../../issues).
 *   **Feedback por Email**: Envie um e-mail para [support@servbay.com](mailto:support@servbay.com).
 *   **Suporte da Comunidade**: Participe de nossas comunidades oficiais para interagir com outros devs, compartilhar experiências e obter suporte:
     *   Discord: [https://talk.servbay.com/](https://talk.servbay.com/)

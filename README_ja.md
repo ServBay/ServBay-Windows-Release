@@ -2,8 +2,8 @@
 
 [English](/README.md) | [简体中文](/README_zh-CN.md) | [繁體中文](/README_zh-TW.md) | [Español](/README_es.md) | [العربية](/README_ar.md) | [Português](/README_pt.md) | [Русский](/README_ru.md) | [日本語](/README_ja.md) | [Deutsch](/README_de.md) | [Français](/README_fr.md) | [Tiếng Việt](/README_vi.md) | [Türkçe](/README_tr.md) | [Italiano](/README_it.md) | [हिन्दी](/README_hi.md) | [Bahasa Indonesia](/README_id.md) | [Bahasa Melayu](/README_ms.md) | [Polski](/README_pl.md) | [Nederlands](/README_nl.md) | [Українська](/README_uk.md) | [ไทย](/README_th.md) | [한국어](/README_ko.md)
 
-[![最新リリース](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](./releases/latest)
-[![GitHubリリース数](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](./releases)
+[![最新リリース](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](../../releases/latest)
+[![GitHubリリース数](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](../../releases)
 
 ServBay Windows版の公式リリースリポジトリへようこそ。本リポジトリでは、ServBayのWindows版公式リリースパッケージおよび変更履歴を公開しています。
 
@@ -63,9 +63,9 @@ ServBayは、開発者の生産性を高めるさまざまなツール群と強�
 
 ## 📥 ダウンロード方法
 
-ServBay Windows版の全ての提供バージョンは、本リポジトリの**[リリースページ](./releases)**で公開されています。
+ServBay Windows版の全ての提供バージョンは、本リポジトリの**[リリースページ](../../releases)**で公開されています。
 
-1.  [リリースページ](./releases)にアクセスします。
+1.  [リリースページ](../../releases)にアクセスします。
 2.  必要なバージョンを選択します（通常は最新の安定版リリースがおすすめです）。
 3.  選択したリリースの「Assets」セクションから、該当するインストーラーパッケージ（例：`.exe`または`.zip`ファイル）をダウンロードします。
 4.  ダウンロード後は、インストールガイドの指示に従って導入してください。
@@ -74,7 +74,7 @@ ServBay Windows版の全ての提供バージョンは、本リポジトリの**
 
 皆さまからのフィードバックを大切にしています！ServBay for Windowsをご利用中に問題やご意見、ご要望・バグなどがございましたら、以下の方法でご連絡ください。
 
-*   **このリポジトリでIssueを作成**：[ServBay-Windows-Release Issueページ](./issues)に詳細をご記入の上投稿してください。
+*   **このリポジトリでIssueを作成**：[ServBay-Windows-Release Issueページ](../../issues)に詳細をご記入の上投稿してください。
 *   **メールでのご連絡**：[support@servbay.com](mailto:support@servbay.com)までメールをお送りください。
 *   **コミュニティサポート**：公式コミュニティにもぜひご参加いただき、他の開発者と交流や情報共有、質問ができます。
     *   Discord: [https://talk.servbay.com/](https://talk.servbay.com/)

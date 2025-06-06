@@ -2,8 +2,8 @@
 
 [English](/README.md) | [简体中文](/README_zh-CN.md) | [繁體中文](/README_zh-TW.md) | [Español](/README_es.md) | [العربية](/README_ar.md) | [Português](/README_pt.md) | [Русский](/README_ru.md) | [日本語](/README_ja.md) | [Deutsch](/README_de.md) | [Français](/README_fr.md) | [Tiếng Việt](/README_vi.md) | [Türkçe](/README_tr.md) | [Italiano](/README_it.md) | [हिन्दी](/README_hi.md) | [Bahasa Indonesia](/README_id.md) | [Bahasa Melayu](/README_ms.md) | [Polski](/README_pl.md) | [Nederlands](/README_nl.md) | [Українська](/README_uk.md) | [ไทย](/README_th.md) | [한국어](/README_ko.md)
 
-[![最新發佈版本](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](./releases/latest)
-[![GitHub 下載總數](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](./releases)
+[![最新發佈版本](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](../../releases/latest)
+[![GitHub 下載總數](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](../../releases)
 
 歡迎來到 ServBay Windows 版的官方發佈倉庫。本倉庫用於存放 ServBay Windows 版的官方發佈安裝包與變更日誌。
 
@@ -61,9 +61,9 @@ ServBay 為開發者提供了全面的工具組與強大的功能特性，顯著
 
 ## 📥 如何下載
 
-你可以於本倉庫的 **[發佈頁面](./releases)** 下載所有可用的 ServBay Windows 版。
+你可以於本倉庫的 **[發佈頁面](../../releases)** 下載所有可用的 ServBay Windows 版。
 
-1.  造訪 [發佈頁面](./releases)。
+1.  造訪 [發佈頁面](../../releases)。
 2.  選擇所需版本（一般建議選最新穩定發佈版）。
 3.  在該版本的「Assets」區塊中下載對應的安裝包（通常為 `.exe` 或 `.zip` 檔案）。
 4.  下載完成後，請依安裝指南進行安裝。
@@ -72,7 +72,7 @@ ServBay 為開發者提供了全面的工具組與強大的功能特性，顯著
 
 我們非常重視你的反饋！如果你在使用 ServBay Windows 版時遇到任何問題、有建議或發現 Bug，請透過下列方式聯繫我們：
 
-*   **在本倉庫提交 Issue**：請詳述問題於 [ServBay-Windows-Release Issues 頁](./issues)。
+*   **在本倉庫提交 Issue**：請詳述問題於 [ServBay-Windows-Release Issues 頁](../../issues)。
 *   **郵件反饋**：發送電子郵件至 [support@servbay.com](mailto:support@servbay.com)。
 *   **社群支持**：加入我們的官方社群，與其他開發者互動、分享經驗、尋求協助：
     *   Discord: [https://talk.servbay.com/](https://talk.servbay.com/)
