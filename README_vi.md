@@ -2,8 +2,8 @@
 
 [English](/README.md) | [简体中文](/README_zh-CN.md) | [繁體中文](/README_zh-TW.md) | [Español](/README_es.md) | [العربية](/README_ar.md) | [Português](/README_pt.md) | [Русский](/README_ru.md) | [日本語](/README_ja.md) | [Deutsch](/README_de.md) | [Français](/README_fr.md) | [Tiếng Việt](/README_vi.md) | [Türkçe](/README_tr.md) | [Italiano](/README_it.md) | [हिन्दी](/README_hi.md) | [Bahasa Indonesia](/README_id.md) | [Bahasa Melayu](/README_ms.md) | [Polski](/README_pl.md) | [Nederlands](/README_nl.md) | [Українська](/README_uk.md) | [ไทย](/README_th.md) | [한국어](/README_ko.md)
 
-[![Phiên bản mới nhất](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](https://github.com/ServBay/ServBay-Windows-Release/releases/latest)
-[![Lượt tải về trên GitHub](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](https://github.com/ServBay/ServBay-Windows-Release/releases)
+[![Phiên bản mới nhất](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](./releases/latest)
+[![Lượt tải về trên GitHub](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](./releases)
 
 Chào mừng bạn đến với kho phát hành chính thức của ServBay dành cho Windows. Đây là nơi lưu trữ các gói cài đặt và nhật ký thay đổi chính thức của ServBay trên Windows.
 
@@ -63,9 +63,9 @@ ServBay cung cấp bộ công cụ toàn diện cùng các tính năng mạnh m�
 
 ## 📥 Cách Tải Xuống
 
-Bạn có thể tìm thấy tất cả các phiên bản ServBay Windows tại **[Trang Phát Hành](https://github.com/ServBay/ServBay-Windows-Release/releases)** của kho này.
+Bạn có thể tìm thấy tất cả các phiên bản ServBay Windows tại **[Trang Phát Hành](./releases)** của kho này.
 
-1.  Truy cập [Trang Phát Hành](https://github.com/ServBay/ServBay-Windows-Release/releases).
+1.  Truy cập [Trang Phát Hành](./releases).
 2.  Chọn phiên bản bạn cần (thông thường nên chọn bản ổn định mới nhất).
 3.  Trong mục "Assets" của phiên bản đã chọn, tải về trình cài đặt phù hợp (ví dụ file `.exe` hoặc `.zip`).
 4.  Sau khi tải xong, hãy làm theo hướng dẫn cài đặt tương ứng.
@@ -74,7 +74,7 @@ Bạn có thể tìm thấy tất cả các phiên bản ServBay Windows tại *
 
 Chúng tôi rất trân trọng phản hồi từ bạn! Nếu có vấn đề khi sử dụng ServBay trên Windows, đề xuất mới hoặc phát hiện lỗi, vui lòng liên hệ với chúng tôi qua các kênh sau:
 
-*   **Gửi vấn đề trực tiếp tại kho này**: Mô tả chi tiết lỗi trên [Trang Issues của ServBay-Windows-Release](https://github.com/ServBay/ServBay-Windows-Release/issues).
+*   **Gửi vấn đề trực tiếp tại kho này**: Mô tả chi tiết lỗi trên [Trang Issues của ServBay-Windows-Release](./issues).
 *   **Gửi email góp ý**: Gửi về địa chỉ [support@servbay.com](mailto:support@servbay.com).
 *   **Hỗ trợ cộng đồng**: Tham gia các cộng đồng chính thức để kết nối, trao đổi và được hỗ trợ:
     *   Discord: [https://talk.servbay.com/](https://talk.servbay.com/)

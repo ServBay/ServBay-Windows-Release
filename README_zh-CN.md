@@ -2,8 +2,8 @@
 
 [English](/README.md) | [简体中文](/README_zh-CN.md) | [繁體中文](/README_zh-TW.md) | [Español](/README_es.md) | [العربية](/README_ar.md) | [Português](/README_pt.md) | [Русский](/README_ru.md) | [日本語](/README_ja.md) | [Deutsch](/README_de.md) | [Français](/README_fr.md) | [Tiếng Việt](/README_vi.md) | [Türkçe](/README_tr.md) | [Italiano](/README_it.md) | [हिन्दी](/README_hi.md) | [Bahasa Indonesia](/README_id.md) | [Bahasa Melayu](/README_ms.md) | [Polski](/README_pl.md) | [Nederlands](/README_nl.md) | [Українська](/README_uk.md) | [ไทย](/README_th.md) | [한국어](/README_ko.md)
 
-[![最新版本](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](https://github.com/ServBay/ServBay-Windows-Release/releases/latest)
-[![GitHub 下载量](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](https://github.com/ServBay/ServBay-Windows-Release/releases)
+[![最新版本](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](./releases/latest)
+[![GitHub 下载量](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](./releases)
 
 欢迎来到 ServBay Windows 版本的官方发布仓库。本仓库存储 ServBay 在 Windows 平台的官方发布包及更新日志。
 
@@ -61,9 +61,9 @@ ServBay 提供全套开发工具和丰富功能，助力开发者效率提升：
 
 ## 📥 如何下载
 
-你可以在本仓库的 **[发布页面](https://github.com/ServBay/ServBay-Windows-Release/releases)** 获取全部 ServBay Windows 版本。
+你可以在本仓库的 **[发布页面](./releases)** 获取全部 ServBay Windows 版本。
 
-1.  访问 [Releases 发布页面](https://github.com/ServBay/ServBay-Windows-Release/releases)。
+1.  访问 [Releases 发布页面](./releases)。
 2.  选择你需要的版本（一般建议选择最新稳定版本）。
 3.  在所选版本的 “Assets” 区域下载相应的安装包（如 `.exe` 或 `.zip` 文件）。
 4.  下载完成后，按照相应文档进行安装。
@@ -72,7 +72,7 @@ ServBay 提供全套开发工具和丰富功能，助力开发者效率提升：
 
 我们非常重视你的反馈！如果你在使用 ServBay for Windows 过程中遇到任何问题、有建议或发现 Bug，欢迎通过以下渠道联系我们：
 
-*   **仓库提 Issue**：请在 [ServBay-Windows-Release Issues 页面](https://github.com/ServBay/ServBay-Windows-Release/issues)详细描述遇到的问题。
+*   **仓库提 Issue**：请在 [ServBay-Windows-Release Issues 页面](./issues)详细描述遇到的问题。
 *   **邮件反馈**：发送邮件至 [support@servbay.com](mailto:support@servbay.com)。
 *   **社区支持**：加入我们的官方社群，与其他开发者交流经验、获取帮助：
     *   Discord: [https://talk.servbay.com/](https://talk.servbay.com/)

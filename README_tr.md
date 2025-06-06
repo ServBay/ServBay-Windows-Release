@@ -2,8 +2,8 @@
 
 [English](/README.md) | [简体中文](/README_zh-CN.md) | [繁體中文](/README_zh-TW.md) | [Español](/README_es.md) | [العربية](/README_ar.md) | [Português](/README_pt.md) | [Русский](/README_ru.md) | [日本語](/README_ja.md) | [Deutsch](/README_de.md) | [Français](/README_fr.md) | [Tiếng Việt](/README_vi.md) | [Türkçe](/README_tr.md) | [Italiano](/README_it.md) | [हिन्दी](/README_hi.md) | [Bahasa Indonesia](/README_id.md) | [Bahasa Melayu](/README_ms.md) | [Polski](/README_pl.md) | [Nederlands](/README_nl.md) | [Українська](/README_uk.md) | [ไทย](/README_th.md) | [한국어](/README_ko.md)
 
-[![Son Sürüm](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](https://github.com/ServBay/ServBay-Windows-Release/releases/latest)
-[![GitHub Yayınları](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](https://github.com/ServBay/ServBay-Windows-Release/releases)
+[![Son Sürüm](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](./releases/latest)
+[![GitHub Yayınları](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](./releases)
 
 ServBay Windows sürümünün resmi yayın deposuna hoş geldiniz. Bu depo, Windows için ServBay’in resmi yayın paketlerini ve değişiklik kayıtlarını barındırır.
 
@@ -61,9 +61,9 @@ ServBay, geliştirici verimliliğini artıracak kapsamlı araçlar ve güçlü �
 
 ## 📥 Nasıl İndirilir?
 
-Tüm mevcut ServBay Windows sürümlerini bu deponun **[Yayınlar Sayfası](https://github.com/ServBay/ServBay-Windows-Release/releases)** üzerinden bulabilirsiniz.
+Tüm mevcut ServBay Windows sürümlerini bu deponun **[Yayınlar Sayfası](./releases)** üzerinden bulabilirsiniz.
 
-1.  [Yayınlar Sayfası’na](https://github.com/ServBay/ServBay-Windows-Release/releases) gidin.
+1.  [Yayınlar Sayfası’na](./releases) gidin.
 2.  Gerekli olan sürümü seçin (genellikle en son kararlı sürüm önerilir).
 3.  Seçili sürümün "Assets" bölümünden uygun kurulum paketini (ör. `.exe` ya da `.zip` dosyası) indirin.
 4.  İndirdikten sonra, ilgili kurulum kılavuzunu izleyerek yükleyin.
@@ -72,7 +72,7 @@ Tüm mevcut ServBay Windows sürümlerini bu deponun **[Yayınlar Sayfası](http
 
 Geri bildiriminiz bizim için çok değerli! Windows için ServBay kullanırken bir sorunla karşılaşırsanız, önerileriniz varsa veya bir hata bulursanız, lütfen aşağıdaki kanallardan bize ulaşın:
 
-*   **Bu Depoda Sorun Bildirimi**: [ServBay-Windows-Release Sorunlar Sayfası](https://github.com/ServBay/ServBay-Windows-Release/issues) üzerinden detaylı şekilde sorunuzu anlatın.
+*   **Bu Depoda Sorun Bildirimi**: [ServBay-Windows-Release Sorunlar Sayfası](./issues) üzerinden detaylı şekilde sorunuzu anlatın.
 *   **E-posta ile Geri Bildirim**: [support@servbay.com](mailto:support@servbay.com) adresine e-posta gönderin.
 *   **Topluluk Desteği**: Diğer geliştiricilerle buluşmak, deneyimler paylaşmak ve yardım almak için resmi topluluklarımıza katılın:
     *   Discord: [https://talk.servbay.com/](https://talk.servbay.com/)

@@ -2,8 +2,8 @@
 
 [English](/README.md) | [简体中文](/README_zh-CN.md) | [繁體中文](/README_zh-TW.md) | [Español](/README_es.md) | [العربية](/README_ar.md) | [Português](/README_pt.md) | [Русский](/README_ru.md) | [日本語](/README_ja.md) | [Deutsch](/README_de.md) | [Français](/README_fr.md) | [Tiếng Việt](/README_vi.md) | [Türkçe](/README_tr.md) | [Italiano](/README_it.md) | [हिन्दी](/README_hi.md) | [Bahasa Indonesia](/README_id.md) | [Bahasa Melayu](/README_ms.md) | [Polski](/README_pl.md) | [Nederlands](/README_nl.md) | [Українська](/README_uk.md) | [ไทย](/README_th.md) | [한국어](/README_ko.md)
 
-[![Rilis Terbaru](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](https://github.com/ServBay/ServBay-Windows-Release/releases/latest)
-[![GitHub Releases](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](https://github.com/ServBay/ServBay-Windows-Release/releases)
+[![Rilis Terbaru](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](./releases/latest)
+[![GitHub Releases](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](./releases)
 
 Selamat datang di repository rilis resmi untuk ServBay versi Windows. Repository ini menyediakan paket rilis resmi dan catatan perubahan untuk ServBay di Windows.
 
@@ -61,9 +61,9 @@ ServBay menawarkan rangkaian lengkap alat dan fitur canggih untuk meningkatkan p
 
 ## 📥 Cara Mengunduh
 
-Anda dapat menemukan semua versi ServBay Windows yang tersedia di **[Halaman Rilis](https://github.com/ServBay/ServBay-Windows-Release/releases)** repository ini.
+Anda dapat menemukan semua versi ServBay Windows yang tersedia di **[Halaman Rilis](./releases)** repository ini.
 
-1.  Kunjungi [Halaman Rilis](https://github.com/ServBay/ServBay-Windows-Release/releases).
+1.  Kunjungi [Halaman Rilis](./releases).
 2.  Pilih versi yang Anda butuhkan (umumnya direkomendasikan memilih rilis stabil terbaru).
 3.  Pada bagian "Assets" dari rilis yang dipilih, unduh paket installer yang sesuai (misalnya file `.exe` atau `.zip`).
 4.  Setelah terunduh, ikuti panduan instalasi untuk menginstal.
@@ -72,7 +72,7 @@ Anda dapat menemukan semua versi ServBay Windows yang tersedia di **[Halaman Ril
 
 Kami sangat menghargai masukan Anda! Jika Anda mengalami masalah saat menggunakan ServBay untuk Windows, memiliki saran, atau menemukan bug, silakan hubungi kami melalui saluran berikut:
 
-*   **Laporkan Issue di Repository Ini**: Jelaskan masalah Anda secara detail di [Halaman Issues ServBay-Windows-Release](https://github.com/ServBay/ServBay-Windows-Release/issues).
+*   **Laporkan Issue di Repository Ini**: Jelaskan masalah Anda secara detail di [Halaman Issues ServBay-Windows-Release](./issues).
 *   **Kirim Email**: Kirimkan email ke [support@servbay.com](mailto:support@servbay.com).
 *   **Dukungan Komunitas**: Bergabunglah dengan komunitas resmi kami untuk terhubung dengan developer lain, berbagi pengalaman, dan mendapatkan bantuan:
     *   Discord: [https://talk.servbay.com/](https://talk.servbay.com/)

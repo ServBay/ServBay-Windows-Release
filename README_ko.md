@@ -2,8 +2,8 @@
 
 [English](/README.md) | [简体中文](/README_zh-CN.md) | [繁體中文](/README_zh-TW.md) | [Español](/README_es.md) | [العربية](/README_ar.md) | [Português](/README_pt.md) | [Русский](/README_ru.md) | [日本語](/README_ja.md) | [Deutsch](/README_de.md) | [Français](/README_fr.md) | [Tiếng Việt](/README_vi.md) | [Türkçe](/README_tr.md) | [Italiano](/README_it.md) | [हिन्दी](/README_hi.md) | [Bahasa Indonesia](/README_id.md) | [Bahasa Melayu](/README_ms.md) | [Polski](/README_pl.md) | [Nederlands](/README_nl.md) | [Українська](/README_uk.md) | [ไทย](/README_th.md) | [한국어](/README_ko.md)
 
-[![Latest Release](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](https://github.com/ServBay/ServBay-Windows-Release/releases/latest)
-[![GitHub Releases](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](https://github.com/ServBay/ServBay-Windows-Release/releases)
+[![Latest Release](https://img.shields.io/github/v/release/ServBay/ServBay-Windows-Release?display_name=tag&sort=date&label=Latest%20Release)](./releases/latest)
+[![GitHub Releases](https://img.shields.io/github/downloads/ServBay/ServBay-Windows-Release/total?label=Total%20Downloads)](./releases)
 
 ServBay Windows 버전의 공식 릴리즈 저장소에 오신 것을 환영합니다. 이 저장소는 ServBay의 Windows용 공식 릴리즈 패키지와 변경 로그를 제공합니다.
 
@@ -61,9 +61,9 @@ ServBay는 개발자의 생산성을 극대화할 수 있도록 다양한 도구
 
 ## 📥 다운로드 방법
 
-모든 ServBay Windows 버전은 이 저장소의 **[Releases 페이지](https://github.com/ServBay/ServBay-Windows-Release/releases)** 에서 확인할 수 있습니다.
+모든 ServBay Windows 버전은 이 저장소의 **[Releases 페이지](./releases)** 에서 확인할 수 있습니다.
 
-1.  [Releases 페이지](https://github.com/ServBay/ServBay-Windows-Release/releases)에 접속합니다.
+1.  [Releases 페이지](./releases)에 접속합니다.
 2.  필요에 따라 버전을 선택하세요 (일반적으로 최신 안정화 버전을 권장합니다).
 3.  선택한 릴리즈의 "Assets" 섹션에서 해당 인스톨러 패키지(예: `.exe` 또는 `.zip` 파일)를 다운로드합니다.
 4.  다운로드 완료 후 안내에 따라 설치를 진행하세요.
@@ -72,7 +72,7 @@ ServBay는 개발자의 생산성을 극대화할 수 있도록 다양한 도구
 
 여러분의 피드백은 매우 소중합니다! ServBay for Windows를 사용하시다가 문제가 발생하거나, 개선 제안 또는 버그가 있다면 아래 채널을 통해 문의해 주세요.
 
-*   **이 저장소에 이슈 등록**: [ServBay-Windows-Release Issues 페이지](https://github.com/ServBay/ServBay-Windows-Release/issues)에 상세한 문제 상황을 남겨주세요.
+*   **이 저장소에 이슈 등록**: [ServBay-Windows-Release Issues 페이지](./issues)에 상세한 문제 상황을 남겨주세요.
 *   **이메일 피드백**: [support@servbay.com](mailto:support@servbay.com) 으로 이메일을 보내주세요.
 *   **커뮤니티 지원**: 공식 커뮤니티에 참여해 다른 개발자들과 소통하고 경험을 공유하거나 도움을 받을 수 있습니다:
     *   Discord: [https://talk.servbay.com/](https://talk.servbay.com/)
