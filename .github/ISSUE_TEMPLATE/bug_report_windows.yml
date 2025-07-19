@@ -8,6 +8,11 @@ body:
       value: |
         Thank you for taking the time to fill out this bug report. Please be as descriptive as possible to help us resolve the issue quickly.
 
+  - type: markdown
+    attributes:
+      value: |
+        > **Important:** ServBay for Windows currently only supports the `x64` (64-bit) architecture. If your system is `ARM64` or `x86 (32-bit)`, it is not a supported environment, and we kindly ask that you do not proceed with filing a bug report for installation or runtime errors.
+
   - type: checkboxes
     id: pre-submission-checklist
     attributes:
@@ -147,11 +152,6 @@ body:
         - label: ".NET Framework 4.x (e.g., 4.5, 4.8)"
         - label: ".NET Core 3.1 (LTS)"
         - label: "I don't know which versions are installed."
-
-  - type: markdown
-    attributes:
-      value: |
-        > **Important:** ServBay for Windows currently only supports the `x64` (64-bit) architecture. If your system is `ARM64` or `x86 (32-bit)`, it is not a supported environment, and we kindly ask that you do not proceed with filing a bug report for installation or runtime errors.
 
   - type: checkboxes
     id: vcredist-versions
