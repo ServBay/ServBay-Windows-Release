@@ -1,0 +1,160 @@
+name: 🐞 Bug Report (Windows)
+description: Report something that is broken or not working correctly on Windows.
+title: "[BUG] "
+labels: ["bug", "windows"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out this bug report. Please be as descriptive as possible to help us resolve the issue quickly.
+
+  - type: checkboxes
+    id: pre-submission-checklist
+    attributes:
+      label: Pre-submission Checklist
+      description: Please ensure you have completed the following steps before submitting.
+      options:
+        - label: I have checked the [Help Center Documentation](https://support.servbay.com/).
+          required: true
+        - label: I have searched the existing issues to prevent duplicates.
+          required: true
+        - label: I am using the [latest version of ServBay](https://www.servbay.com/download/).
+          required: true
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: To Reproduce
+      description: Steps to reproduce the bug.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+      
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual behavior
+      description: A clear and concise description of what actually happened.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Environment
+        Please provide the following details about your setup.
+
+  - type: input
+    id: servbay-version
+    attributes:
+      label: ServBay Version
+      placeholder: "e.g., 1.3.1"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: windows-version
+    attributes:
+      label: Windows Version
+      description: Please select your Windows version from the list.
+      options:
+        - "Windows 11"
+        - "Windows 10"
+        - "Windows Server 2025"
+        - "Windows Server 2022"
+        - "Windows Server 2019"
+        - "Windows Server 2016"
+        - "Windows Server 2012 R2"
+        - "Windows Server 2012"
+        - "Other"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: win-version
+    attributes:
+      label: Windows 10/11 & Windows Server 2019/2022 Version (if applicable)
+      description: "If you are using Windows 10/11 or Windows Server 2019/2022, please select the specific version. This is optional."
+      options:
+        - "Not Applicable / I don't know"
+        - "24H2"
+        - "23H2"
+        - "22H2"
+        - "21H2"
+        - "21H1"
+        - "20H2"
+        - "2004"
+        - "19H1"
+        - "Other"
+
+  - type: input
+    id: windows-version-other
+    attributes:
+      label: Windows Version (if 'Other')
+      description: "If you selected 'Other' in the main Windows Version dropdown, please specify your exact version here."
+
+  - type: input
+    id: windows-build
+    attributes:
+      label: Windows Build Number (Optional)
+      description: "If possible, please provide your OS Build number. You can find this easily by running `winver` from the Start Menu or Run dialog (Win + R)."
+      placeholder: "e.g., 22631.3007 or 19045.2965"
+
+  - type: dropdown
+    id: system-architecture
+    attributes:
+      label: System Architecture
+      description: Please select the CPU architecture of your Windows system.
+      options:
+        - "x64 (64-bit, Intel/AMD)"
+        - "ARM64"
+        - "x86 (32-bit)"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: dotnet-versions
+    attributes:
+      label: Installed .NET Versions
+      description: "Please select all versions of .NET that are installed on your system. This helps us diagnose dependency issues."
+      options:
+        - label: ".NET Framework 3.5"
+        - label: ".NET Framework 4.x (e.g., 4.5, 4.8)"
+        - label: ".NET 8.0 (LTS)"
+        - label: ".NET 7.0"
+        - label: ".NET 6.0 (LTS)"
+        - label: ".NET 5.0"
+        - label: ".NET Core 3.1 (LTS)"
+        - label: "I don't know which versions are installed."
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Screenshots or Logs
+      description: If applicable, add screenshots or paste log files to help explain your problem.
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context about the problem here.

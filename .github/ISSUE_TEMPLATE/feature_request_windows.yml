@@ -1,0 +1,45 @@
+name: ✨ Feature Request (Windows)
+description: Suggest a new feature or an improvement for the ServBay for Windows app.
+title: "[FEAT] "
+labels: ["enhancement", "feature-request", "windows"]
+body:
+  - type: textarea
+    id: related-problem
+    attributes:
+      label: Is your feature request related to a problem? Please describe.
+      description: A clear and concise description of what the problem is.
+      placeholder: "Ex. I'm always frustrated when [...]"
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the solution you'd like
+      description: A clear and concise description of what you want to happen. How would this feature work from a user's perspective?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: macos-parity
+    attributes:
+      label: Is this feature available on the macOS version?
+      description: This helps us prioritize feature parity.
+      options:
+        - "Yes, this feature is already available on macOS."
+        - "No, this is a new feature for both platforms."
+        - "I don't know / Not applicable."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: A clear and concise description of any alternative solutions or features you've considered.
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context, mockups, or screenshots about the feature request here.
