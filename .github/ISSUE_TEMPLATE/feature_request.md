@@ -13,6 +13,12 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen. How would this feature work from a user's perspective?
 
+**Is this feature available on the macOS version?**
+*Please check one of the following:*
+- [ ] Yes, this feature is already available on the macOS version.
+- [ ] No, this is a new feature for both platforms.
+- [ ] I don't know / Not applicable.
+
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
 

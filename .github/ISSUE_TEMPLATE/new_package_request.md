@@ -23,5 +23,11 @@ Please describe the use case. What kind of development work requires this packag
 **Link to the official package website**
 Please provide a link to the official homepage, documentation, or source repository for the package.
 
+**Is this package available on the macOS version?**
+*Please check one of the following:*
+- [ ] Yes, this package is already available on the macOS version.
+- [ ] No, this is a new package for both platforms.
+- [ ] I don't know / Not applicable.
+
 **Additional context**
-Is there anything else we should know? For example, is it a popular tool in the web development community? Are there any specific dependencies we should be aware of for Windows?
+Is there anything else we should know? For example, are there any specific dependencies or configuration details we should be aware of for Windows?

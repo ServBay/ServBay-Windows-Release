@@ -31,7 +31,7 @@ If applicable, add screenshots or log files to help explain your problem.
 
 **Environment:**
  - **ServBay Version:** [e.g., 1.3.1]
- - **Windows Version:** [e.g., Windows 11, Windows 10, Windows Server 2012+] [10]
+ - **Windows Version:** [e.g., Windows 11, Windows 10, Windows Server 2012, etc.]
 
 **Additional context**
 Add any other context about the problem here.
