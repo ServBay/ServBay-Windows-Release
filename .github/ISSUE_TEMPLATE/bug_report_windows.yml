@@ -138,12 +138,13 @@ body:
       label: Installed .NET Versions
       description: "Please select all versions of .NET that are installed on your system. This helps us diagnose dependency issues."
       options:
-        - label: ".NET Framework 3.5"
-        - label: ".NET Framework 4.x (e.g., 4.5, 4.8)"
+        - label: ".NET 9.0"
         - label: ".NET 8.0 (LTS)"
         - label: ".NET 7.0"
         - label: ".NET 6.0 (LTS)"
         - label: ".NET 5.0"
+        - label: ".NET Framework 3.5"
+        - label: ".NET Framework 4.x (e.g., 4.5, 4.8)"
         - label: ".NET Core 3.1 (LTS)"
         - label: "I don't know which versions are installed."
 
